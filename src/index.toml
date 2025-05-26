@@ -167,6 +167,11 @@ hash = "b6caef8fb6f8edd11fbb6d26a532e3fafa4ee50fd0ce93c7b4a75b7f520060b3"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "be710b0c92ac946d39f47043d5da9e96f56b73dd7ed2c9346431368c9b82aa38"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "9ccd9ad154cd112e8a2a33f9b1f61ff72bdceca49cd7ccd93221adc91c9120d5"
 metafile = true
@@ -234,6 +239,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "cbd62c346d8aba90bd25beff7c8fe85108e5e68a5ff8e37f78625db97c500c81"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "8ccfb5a3abb8c320b5844e1ed88cd06184ca88abd8541c601c93f3e2905d225e"
 metafile = true
 
 [[files]]
@@ -442,6 +452,11 @@ hash = "67546abdcdd08e9977cdabb7011330edba00d8d7b2fe2e438807d26cff01c09b"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "91e0af4b9989dd9a706d43e32ad498184d9400646f89362877bae96c207b7b70"
+metafile = true
+
+[[files]]
 file = "mods/glodium.pw.toml"
 hash = "7dd266ba23fc08aade3fe194f1e55af68a80fc81f7a79ede8500a85bb05dc565"
 metafile = true
@@ -642,6 +657,16 @@ hash = "5f5ee7f47eb5f9b136ad86085a97c742b3a3365524f26cc6477fa44d6d4c9381"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "6e7b5ac5481576cc4166c6bebd45da14145e609d5bb24a5b1daa84561bfd0f73"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "2169d0d0bd77aeee391a7d312efe44c091c4b5ef97873f85213caa051c4aea1e"
+metafile = true
+
+[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "9cf64722ecfc9f521522bce0da19afff460129f5a718892ce94e89c2765c82c9"
 metafile = true
@@ -689,6 +714,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "9a8bc01ac2c21bad372e5b7db21e6d6207c0e1f1d60d1481157a2131ad653a26"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "5e05604371293e654f97880c8865c62ea7ef33cf63dd841c2b28d1d1d8ff01ce"
 metafile = true
 
 [[files]]
@@ -764,6 +794,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "ccdbf4911645dcdcca775d8a1aef11bd036b2d13717615a561736a4e50ac4539"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "ea2e58a4de6dede94d982dd935753307a9a4f8c45e5920750e84d3db6faa1454"
 metafile = true
 
 [[files]]
