@@ -1,0 +1,13 @@
+name = "Mages and Mechanics"
+author = "7actose"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a93ecf03b414b836736276deaa1ce3262ea3adf6aa4e3cc2683fbc6414087a33"
+
+[versions]
+forge = "47.4.1"
+minecraft = "1.20.1"

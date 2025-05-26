@@ -1,0 +1,13 @@
+name = "RightClickHarvest"
+filename = "rightclickharvest-forge-4.5.3+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cnejf5xM/versions/9vLC6WwT/rightclickharvest-forge-4.5.3%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "82149cc0fa87ac40d800dc921ab4fbecc93345c8"
+
+[update]
+[update.modrinth]
+mod-id = "Cnejf5xM"
+version = "9vLC6WwT"
