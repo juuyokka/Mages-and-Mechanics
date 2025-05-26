@@ -1,0 +1,13 @@
+name = "Faster Block Placement"
+filename = "fasterblockplacement-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zxrHoh3i/versions/4qVFEvPs/fasterblockplacement-1.0.1.jar"
+hash-format = "sha1"
+hash = "a0c6d917157e1c417255f76dbd0aefc7ba68f7b9"
+
+[update]
+[update.modrinth]
+mod-id = "zxrHoh3i"
+version = "4qVFEvPs"

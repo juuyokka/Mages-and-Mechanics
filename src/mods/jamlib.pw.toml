@@ -1,0 +1,13 @@
+name = "JamLib"
+filename = "jamlib-forge-1.3.5+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IYY9Siz8/versions/85aSniKx/jamlib-forge-1.3.5%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "19defaf82e7ca6052abd9fcf8d5b8fa761cd96a1"
+
+[update]
+[update.modrinth]
+mod-id = "IYY9Siz8"
+version = "85aSniKx"

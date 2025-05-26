@@ -1,0 +1,13 @@
+name = "Inventory Sorter (Configurable)"
+filename = "inventorysorter-1.20.1-23.1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5mTUz0VW/versions/ItiqYtL3/inventorysorter-1.20.1-23.1.9.jar"
+hash-format = "sha1"
+hash = "7790b0e105ffb36cbeee4e818edc4d94d5680dd1"
+
+[update]
+[update.modrinth]
+mod-id = "5mTUz0VW"
+version = "ItiqYtL3"
