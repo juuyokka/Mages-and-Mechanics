@@ -13,6 +13,10 @@ file = "config/treeharvester.json5"
 hash = "4a71e9707d8bbdc776a3b6c3cadcf703fbfa3a256cb202abece0360f555536ba"
 
 [[files]]
+file = "configureddefaults/config/forge-client.toml"
+hash = "c603b6f52f1e98a4e3d93d80c99e915e6655a52f6bce90ccaa65f303fa47a428"
+
+[[files]]
 file = "configureddefaults/config/lootbeams/loot_information_config.toml"
 hash = "8da31151e2c2167b3e6436521abedf72d1614f4d7910b1860e286034501dab80"
 
