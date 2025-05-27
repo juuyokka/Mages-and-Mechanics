@@ -184,8 +184,18 @@ hash = "be710b0c92ac946d39f47043d5da9e96f56b73dd7ed2c9346431368c9b82aa38"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "aba280e6b2da6e901771d58f8bd5c0a3b45fdfdaf297044824af8be446d95dc7"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "9ccd9ad154cd112e8a2a33f9b1f61ff72bdceca49cd7ccd93221adc91c9120d5"
+metafile = true
+
+[[files]]
+file = "mods/bygone-nether.pw.toml"
+hash = "af3ece2be745c14463ba713fd453cfca07f829137059d74954cc392a6de36e3e"
 metafile = true
 
 [[files]]
@@ -384,6 +394,16 @@ hash = "81cca761a1c35d51e08b88082090dd6c6234dfaad3be56cacc26c9676462c56e"
 metafile = true
 
 [[files]]
+file = "mods/endergetic.pw.toml"
+hash = "816901f3a7a3c2975a54aaed2b8a5b31f8f849b701408508cb77572e3f006d59"
+metafile = true
+
+[[files]]
+file = "mods/ends-phantasm.pw.toml"
+hash = "a7d1481cc2a5b5d3926ef9bed6a7a2bf87b78fd8174f4f1c912950fb70b9ebf2"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "a4d11e919132d573da75c2e2d06242921541cfdf94ebfafe976fbc5fe7fc2e29"
 metafile = true
@@ -396,6 +416,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "c593551ad29c010a4985f4310c32707bfb8859ebe939d5e17c4cd919862f5555"
+metafile = true
+
+[[files]]
+file = "mods/even-better-nether.pw.toml"
+hash = "e163044f3d3d08bcc86dc85a033099ceb7034a268e1585ac2094c80eb488a445"
 metafile = true
 
 [[files]]
@@ -499,8 +524,18 @@ hash = "d3ff93cfc3c3e3d2e805ababa25afb90cc46ff6bd90579e697bab3ff5f8e4d31"
 metafile = true
 
 [[files]]
+file = "mods/idas.pw.toml"
+hash = "f51c9f7b1129b5c310414f5a956b1c03887786fb16d2e004cfeded85220577b1"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "239b07b16a235dac88a7eba06f69357bf575e6f19c4263a1ab247d8c211c86e7"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "56eb691a13dd6219a8195d2df15365734d59ff83e82bc36fdc63bee18b123885"
 metafile = true
 
 [[files]]
@@ -629,8 +664,23 @@ hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "34f5e911070a9426d10775b2f62b4dabfbf693401610aabbc8ef06583aecbd50"
+metafile = true
+
+[[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "ebed87a123ca7173e6437d2cb15751a24b825e60786dc3ea24784b8f3b3cd651"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "23007c9b06315a062ca923911d9fd89066946f6f52df31c06548fa8bc241b55c"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "16a1eec40d186d4b7ad57d507a615b66b06ca58c6a10d54cddd86c9236c5eb67"
 metafile = true
 
 [[files]]
@@ -814,6 +864,11 @@ hash = "891e9f333a6527dc8418c0b5007238c23f74a31e50bc7f1a5e7f7e6e65b328b4"
 metafile = true
 
 [[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "8abb5d92b79ec9531b91a51ecd2d199c294553de3982820a37625f816e9430d8"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "ccdbf4911645dcdcca775d8a1aef11bd036b2d13717615a561736a4e50ac4539"
 metafile = true
@@ -836,6 +891,11 @@ metafile = true
 [[files]]
 file = "mods/tetracelium.pw.toml"
 hash = "ef593110796782edd4a1d62c09aaf05995b53a206ffa728c861dcd471608fd5c"
+metafile = true
+
+[[files]]
+file = "mods/the-outer-end.pw.toml"
+hash = "b05568d8c784e587be1751e1ca8527b6c68db6eb46640165ca24d8f026a7ebb1"
 metafile = true
 
 [[files]]
