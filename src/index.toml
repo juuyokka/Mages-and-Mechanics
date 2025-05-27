@@ -5,6 +5,14 @@ file = "config/bcc-common.toml"
 hash = "570da83404090ddc38f9e82f23c286869f686f1c985a3b0a2866e0036ff52542"
 
 [[files]]
+file = "config/createaddition-common.toml"
+hash = "5447975893310975e81e8777527ea41ad658907630830e0ec10034fe5dd7a20d"
+
+[[files]]
+file = "config/treeharvester.json5"
+hash = "4a71e9707d8bbdc776a3b6c3cadcf703fbfa3a256cb202abece0360f555536ba"
+
+[[files]]
 file = "configureddefaults/config/lootbeams/loot_information_config.toml"
 hash = "8da31151e2c2167b3e6436521abedf72d1614f4d7910b1860e286034501dab80"
 
@@ -13,12 +21,16 @@ file = "configureddefaults/config/quark-common.toml"
 hash = "5e6d61b77d1448e8dde38a036deab0305ffc32422fe33acdff7eefbb44814048"
 
 [[files]]
-file = "configureddefaults/config/treeharvester.json5"
-hash = "4a71e9707d8bbdc776a3b6c3cadcf703fbfa3a256cb202abece0360f555536ba"
+file = "configureddefaults/config/watut-client.toml"
+hash = "314000bb40c34426ff0e5a7d0397301f344bd11086de2d8d43d3cd3bcd308709"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap.txt"
 hash = "8bfacb072b85270879556ae61d300927ca994ce0677aab404bbedd2273a5abe0"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "064b5ade2e6fbcf54f1c7d11cde2d26ecb18f1b1d3a95053e71a3271453af74c"
 
 [[files]]
 file = "defaultconfigs/corpse-server.toml"
@@ -673,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "2169d0d0bd77aeee391a7d312efe44c091c4b5ef97873f85213caa051c4aea1e"
+hash = "daa22698d8ec8f9bb4291221e411b982c0a6f686db618bd7ca3c229ca1b675ff"
 metafile = true
 
 [[files]]
@@ -915,3 +927,7 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "f4317b7e3936074a1eb5530d5883e4da7105b18edd8f89b0e5064b354ec7bff8"
 metafile = true
+
+[[files]]
+file = "resourcepacks/JustExpressions_v1.1.zip"
+hash = "318547986e749a32c2f2e9425eb82100b11f8203fb562bbd4bc343733fd83eba"
