@@ -21,6 +21,10 @@ file = "configureddefaults/config/lootbeams/loot_information_config.toml"
 hash = "8da31151e2c2167b3e6436521abedf72d1614f4d7910b1860e286034501dab80"
 
 [[files]]
+file = "configureddefaults/config/mna-client.toml"
+hash = "d64b5297cb0cc648bf273533d76bc7287f0152a15996c7ff254c31f95051d857"
+
+[[files]]
 file = "configureddefaults/config/quark-common.toml"
 hash = "5e6d61b77d1448e8dde38a036deab0305ffc32422fe33acdff7eefbb44814048"
 
