@@ -13,6 +13,10 @@ file = "config/treeharvester.json5"
 hash = "4a71e9707d8bbdc776a3b6c3cadcf703fbfa3a256cb202abece0360f555536ba"
 
 [[files]]
+file = "configureddefaults/config/figura.json"
+hash = "9c47a439af16b5516822327d283e412d63403365925fb848081498bdf92d9fff"
+
+[[files]]
 file = "configureddefaults/config/forge-client.toml"
 hash = "c603b6f52f1e98a4e3d93d80c99e915e6655a52f6bce90ccaa65f303fa47a428"
 
