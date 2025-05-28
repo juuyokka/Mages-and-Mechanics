@@ -229,6 +229,11 @@ hash = "af3ece2be745c14463ba713fd453cfca07f829137059d74954cc392a6de36e3e"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "a388f4afe890e268a739cf598b68859ca3d86506a3fa3e46c17e4aa63debd309"
 metafile = true
@@ -421,6 +426,11 @@ metafile = true
 [[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "543a98be559aaee520d949aa31ac2253c80f9a693455259f4eb6e5e3c6278243"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "3bb7489e929b16c94210d4e28d9840c9d279193ace74a69234a250f0c429e9e4"
 metafile = true
 
 [[files]]
