@@ -57,16 +57,19 @@ file = "defaultconfigs/mna-general.toml"
 hash = "1cb3ba19833facf34e29db80f6565f6e4453e61edb338b0cfe3a2846f3d16be3"
 
 [[files]]
-file = "kubejs/data/NoEndermanGrief-[1.20.1]-v.1.1.2.zip"
-hash = "8efd28dacde8bcd77a76e2f81e3935bd0f83d321db9f894625784627c6d4f9da"
+file = "kubejs/data/no-creeper-grief.pw.toml"
+hash = "95173bb7efa2f75e971deb3e7a9198886068e279a09704816c9ae2f65b301998"
+metafile = true
 
 [[files]]
-file = "kubejs/data/PK_No_Creeper_Grief_V.2.0.3_MC_1.20_to_1.20.1.zip"
-hash = "1078a8fb3d33b2234ad7b217bd8f519824cfc754d7057230f2ae143e1e53e148"
+file = "kubejs/data/no-enderman-grief.pw.toml"
+hash = "1670e2128aa6a5d9c706468a0597f011bbd4a1096f96355dfafbdb5977990a1c"
+metafile = true
 
 [[files]]
-file = "kubejs/data/PK_No_Ghast_Grief_MC_1.20_to_1.20.4.zip"
-hash = "bcd41ba3bd91a93d77ca194caca04602e7568a7194a278a78c8e8501308de518"
+file = "kubejs/data/no-ghast-grief.pw.toml"
+hash = "9037ceed29e7010cfbb65c3b1a32b456a5f06c93dc60f54d2b6ed7cf7d77146e"
+metafile = true
 
 [[files]]
 file = "kubejs/server_scripts/apothic_spawners.js"

@@ -1,0 +1,8 @@
+name = "No Creeper Grief"
+filename = "PK_No_Creeper_Grief_V.2.0.3_MC_1.20_to_1.20.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WCR1qfos/versions/iJh3cNqS/PK_No_Creeper_Grief_V.2.0.3_MC_1.20_to_1.20.1.zip"
+hash-format = "sha1"
+hash = "e4d55382cd0970655d420e460be107bdab01010d"
