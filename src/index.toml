@@ -969,11 +969,6 @@ hash = "e0dd564cc647409e74b579021bd208e9348a58a3c64d290959cb2ccf7e72b8ea"
 metafile = true
 
 [[files]]
-file = "mods/torohealth-damage-indicators-updated.pw.toml"
-hash = "bc4a64821f2ae6d53d19a040589413e2e16b954843a257bfcdd85e446159e31c"
-metafile = true
-
-[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "43284a55e537cb96d28160cdadab96dfd2ed3712529cc546a1c03313dd99eb46"
 metafile = true
