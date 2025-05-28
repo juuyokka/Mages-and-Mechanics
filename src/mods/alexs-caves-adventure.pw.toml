@@ -1,0 +1,13 @@
+name = "Alex's Caves: Adventure"
+filename = "alexscaves_adventure-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QDwvE2e1/versions/2VcEPtLz/alexscaves_adventure-1.0.1-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "606e302b6125372d27e2ab6243f64c49963e3af8"
+
+[update]
+[update.modrinth]
+mod-id = "QDwvE2e1"
+version = "2VcEPtLz"

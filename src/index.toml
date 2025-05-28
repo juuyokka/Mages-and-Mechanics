@@ -117,8 +117,23 @@ hash = "7ec07fbf8bd444722601e8acedc7ea199a40edc9a37c4c5df1e449712d0e3dc4"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves-adventure.pw.toml"
+hash = "c04e610e8a2e6b23db2bcbacba6405aa282d8584a54e9e561188897cd9ffd02f"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "538975fa938f7435a3c865d32262b8ecc08c47cb4eb3a24f6f3e29e4caf825d3"
+metafile = true
+
+[[files]]
+file = "mods/alexs-delight.pw.toml"
+hash = "99f6d4e46f784953d16aa1ce5f72327b21487dc0e27d3143c8a6b60c6d02381a"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs-interaction.pw.toml"
+hash = "6d3a7ab3705d64de0537bba0590e9df5346e9dcad7e84202944f34d386e90368"
 metafile = true
 
 [[files]]
@@ -214,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/catalogue.pw.toml"
 hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
+metafile = true
+
+[[files]]
+file = "mods/cave-delight.pw.toml"
+hash = "00525631180bf98c6eb34d834b9981209ef3f49a2d99de1a6288bb164c618563"
 metafile = true
 
 [[files]]
@@ -369,6 +389,11 @@ metafile = true
 [[files]]
 file = "mods/deimos.pw.toml"
 hash = "93fca124309b076fc41fb76716326fe81825ad4dcabf7a3325b80578ca01fa3a"
+metafile = true
+
+[[files]]
+file = "mods/delightful.pw.toml"
+hash = "de85398edd62e7700be6405928b3db14aaea2db7fc8e87f1168f3437d26d0dc4"
 metafile = true
 
 [[files]]
@@ -669,6 +694,11 @@ metafile = true
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "34f5e911070a9426d10775b2f62b4dabfbf693401610aabbc8ef06583aecbd50"
+metafile = true
+
+[[files]]
+file = "mods/miners-delight.pw.toml"
+hash = "413d504f5b032628c7e240d2c669c692685f5707f63eca045f4b27a5ac4e66ce"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Alex's Mobs Interaction"
+filename = "alexsmobsinteraction-5.4-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cQPcBgTD/versions/LfUlgUN4/alexsmobsinteraction-5.4-all.jar"
+hash-format = "sha1"
+hash = "4b5376f52539122e8eca84679a7aa540ad15e0d4"
+
+[update]
+[update.modrinth]
+mod-id = "cQPcBgTD"
+version = "LfUlgUN4"
