@@ -34,7 +34,7 @@ hash = "5e6d61b77d1448e8dde38a036deab0305ffc32422fe33acdff7eefbb44814048"
 
 [[files]]
 file = "configureddefaults/config/watut-client.toml"
-hash = "314000bb40c34426ff0e5a7d0397301f344bd11086de2d8d43d3cd3bcd308709"
+hash = "a73212a23bab676fdc629005fc37f637cbb4afe5157d5fc6ff318fc3f6b9655a"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap.txt"
