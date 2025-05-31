@@ -369,11 +369,6 @@ hash = "d821f6c5e412ba62e0637cb16e77c416a8a225b4924a2446fe1804ecd2b2eebd"
 metafile = true
 
 [[files]]
-file = "mods/create-recycle-everything.pw.toml"
-hash = "1d987c4ca9901405394b0a3988a40f2e046cae68008d7f192a60890660b98394"
-metafile = true
-
-[[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "667a8202c1927d9acfc425fec4658607596866f727a721dfcaad5d51bdc3bfe7"
 metafile = true
@@ -387,6 +382,10 @@ metafile = true
 file = "mods/create.pw.toml"
 hash = "aea8cb2405e8c09591ad4ebcb03f76936b016176577852b9a922278de45a5785"
 metafile = true
+
+[[files]]
+file = "mods/create_recycle_1.0.2_forge_1.20.1.jar"
+hash = "dbdf418ae63f929600784db71310ed80c7e7c30a60d1f3467dccb2a9d81caa52"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
