@@ -369,6 +369,11 @@ hash = "d821f6c5e412ba62e0637cb16e77c416a8a225b4924a2446fe1804ecd2b2eebd"
 metafile = true
 
 [[files]]
+file = "mods/create-recycle-everything.pw.toml"
+hash = "1d987c4ca9901405394b0a3988a40f2e046cae68008d7f192a60890660b98394"
+metafile = true
+
+[[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "667a8202c1927d9acfc425fec4658607596866f727a721dfcaad5d51bdc3bfe7"
 metafile = true
