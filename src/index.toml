@@ -398,11 +398,6 @@ hash = "c1fb4b35943ed603eaaa2999ec0faa3d22a5ea2a95f7ef1b0cd0eae83c945bae"
 metafile = true
 
 [[files]]
-file = "mods/cut-through.pw.toml"
-hash = "c77782e410e54eb5387feceebf5f321e7b2f01f66e0ee407398d1dd2fb314e93"
-metafile = true
-
-[[files]]
 file = "mods/deimos.pw.toml"
 hash = "93fca124309b076fc41fb76716326fe81825ad4dcabf7a3325b80578ca01fa3a"
 metafile = true
