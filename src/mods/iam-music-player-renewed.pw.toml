@@ -1,0 +1,13 @@
+name = "Iam Music Player Renewed"
+filename = "forge-3.22.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1XSEiZPP/versions/vzATd1GG/forge-3.22.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "c06d151db9ee6fd4aa70fd423e14be433c629c05"
+
+[update]
+[update.modrinth]
+mod-id = "1XSEiZPP"
+version = "vzATd1GG"

@@ -568,6 +568,11 @@ hash = "33984c61223779392e93e3a6f45d4bec9b3c3c97be1c23db03ded7931a4dae1d"
 metafile = true
 
 [[files]]
+file = "mods/iam-music-player-renewed.pw.toml"
+hash = "ab93e5e38a563423d7ffffd290325bd56715c7a2581ed4f2f76ee186412afb0c"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "d3ff93cfc3c3e3d2e805ababa25afb90cc46ff6bd90579e697bab3ff5f8e4d31"
 metafile = true
@@ -713,6 +718,11 @@ hash = "51906a6daced511c4a3ae936f79c238f2be03e754a5a289aa265e763269e6130"
 metafile = true
 
 [[files]]
+file = "mods/mcef.pw.toml"
+hash = "6c20b812ae6e61bcb2332e252f1bcfe86a470e3100ae830cf1e1c46cc0d6edc0"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
@@ -790,6 +800,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "daa22698d8ec8f9bb4291221e411b982c0a6f686db618bd7ca3c229ca1b675ff"
+metafile = true
+
+[[files]]
+file = "mods/otyacraft-engine-renewed.pw.toml"
+hash = "92bc373b5ff064fa354a17fd827ce090cbb8fd15e35b9caf24e03ad46789d860"
 metafile = true
 
 [[files]]
@@ -1005,6 +1020,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "a4bbf33f0294ba3077f63ef5d94288d84456fb784bcf4d1ae943295bb23504de"
+metafile = true
+
+[[files]]
+file = "mods/webdisplays.pw.toml"
+hash = "d8ef55d4405b89dc79296ad1a6072c8f825dd6f929b509df673093e0d001c80a"
 metafile = true
 
 [[files]]
