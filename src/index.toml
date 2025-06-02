@@ -583,6 +583,11 @@ hash = "239b07b16a235dac88a7eba06f69357bf575e6f19c4263a1ab247d8c211c86e7"
 metafile = true
 
 [[files]]
+file = "mods/infinite-trading.pw.toml"
+hash = "5e4ccec034dfa2e49d4019fae2660a477709694917cc377133c1a5315b5d997c"
+metafile = true
+
+[[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "56eb691a13dd6219a8195d2df15365734d59ff83e82bc36fdc63bee18b123885"
 metafile = true
