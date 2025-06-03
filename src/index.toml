@@ -304,6 +304,11 @@ hash = "cbd62c346d8aba90bd25beff7c8fe85108e5e68a5ff8e37f78625db97c500c81"
 metafile = true
 
 [[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "8375be42c23e35f8f624ffbaf9255582aa0b1d77682991a51ad61ee15daa820b"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "8ccfb5a3abb8c320b5844e1ed88cd06184ca88abd8541c601c93f3e2905d225e"
 metafile = true
@@ -311,16 +316,6 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "c8dad6abaa841e4283e2ab9b618c75b26e6b5cdb86c733ed1adbeac4835e6246"
-metafile = true
-
-[[files]]
-file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "8795ccd4e80e7316008c14a50595f2e5086431573988706eaeb102dcecf47148"
-metafile = true
-
-[[files]]
-file = "mods/corpse.pw.toml"
-hash = "f7e1c7d61e9d967077347836cec14499538ee077303b2ce266a3cb75e4237b88"
 metafile = true
 
 [[files]]
