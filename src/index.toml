@@ -973,6 +973,11 @@ hash = "b05568d8c784e587be1751e1ca8527b6c68db6eb46640165ca24d8f026a7ebb1"
 metafile = true
 
 [[files]]
+file = "mods/the-splash-milk.pw.toml"
+hash = "51c1fe8a95808537c34b3f09b1386a81e3b4698a42bd78136a7f3a80de8a921f"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "0b65cd1a439326b6a81f453773722893e4eef1c065859e7a0f2935952f6e9cb3"
 metafile = true
