@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-mobile-packages.pw.toml"
-hash = "d821f6c5e412ba62e0637cb16e77c416a8a225b4924a2446fe1804ecd2b2eebd"
+hash = "f84894eb281eadc91e3f2aa5c04c32196c5dcbf0be39c59f0d15f2c8322b752e"
 metafile = true
 
 [[files]]
