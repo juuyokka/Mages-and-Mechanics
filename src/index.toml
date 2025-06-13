@@ -833,6 +833,11 @@ hash = "d2131f406e8030c38d79aa38d62c2484afb9b2303f5c9d950597fd9d50e2c441"
 metafile = true
 
 [[files]]
+file = "mods/purpurpacks-re-dye-terracotta.pw.toml"
+hash = "a8c29629cbeffbd92eab35e1dee547bcaf774ca31cfd69008b7c1f70bc1e1a0e"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "cc9064c8ab8c286efa63451ea1d0421f279d6462615fd1f4f6f23f4b82a69e40"
 metafile = true
