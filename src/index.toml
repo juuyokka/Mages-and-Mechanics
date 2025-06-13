@@ -408,6 +408,11 @@ hash = "90812fce7d2261e04c3d75da07719531ba1257cf1c502908d12126e048d4393f"
 metafile = true
 
 [[files]]
+file = "mods/door-knocker.pw.toml"
+hash = "6b9134555019ee0e1a9e065f727f926a878dc56c7df3a01f8dedc740cb3ae775"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "44939e619b300aeac4de098126c182fdaba2439f737307bbe214f68c32c115a7"
 metafile = true

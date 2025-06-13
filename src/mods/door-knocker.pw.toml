@@ -1,0 +1,13 @@
+name = "Door Knocker (Forge)"
+filename = "doorknockerforge-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bpvudhf1/versions/rECsjDod/doorknockerforge-1.3.0.jar"
+hash-format = "sha1"
+hash = "925eed4695043745a894444d6866970935f1fe49"
+
+[update]
+[update.modrinth]
+mod-id = "Bpvudhf1"
+version = "rECsjDod"
