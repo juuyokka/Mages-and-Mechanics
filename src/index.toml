@@ -274,6 +274,11 @@ hash = "d77cac63277abb10a24798d987a7019c4e978cbeb915e1f92e28dfa4f3f3fe64"
 metafile = true
 
 [[files]]
+file = "mods/coffeecraft.pw.toml"
+hash = "f6371ab2e6017973fd609753b1246f60dfbe6e6d1738ac27e9348c86f96b9ac1"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "464e55d46ac4c3a6c9fb91c0d913050ce18e3aa1181ec0aa760ca598c62c69e0"
 metafile = true
@@ -321,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
+file = "mods/cozy-foods-milk-tea.pw.toml"
+hash = "dd47260191c9491e07d00c940b8522b6539de18855a2abba0ec9edc4aa2ffd0a"
 metafile = true
 
 [[files]]
