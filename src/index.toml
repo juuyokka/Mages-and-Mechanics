@@ -748,6 +748,11 @@ hash = "413d504f5b032628c7e240d2c669c692685f5707f63eca045f4b27a5ac4e66ce"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "c46c348017c9452013505454609448c341313f298593d38d3a1d796ca9250370"
+metafile = true
+
+[[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
 hash = "ebed87a123ca7173e6437d2cb15751a24b825e60786dc3ea24784b8f3b3cd651"
 metafile = true
