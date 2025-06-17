@@ -389,6 +389,11 @@ hash = "aea8cb2405e8c09591ad4ebcb03f76936b016176577852b9a922278de45a5785"
 metafile = true
 
 [[files]]
+file = "mods/create_oxidized.pw.toml"
+hash = "d768e66ef7153e5ada1b303c44723a346c90ad9137a32074d2a33ee95a06c306"
+metafile = true
+
+[[files]]
 file = "mods/create_recycle_1.0.2_forge_1.20.1.jar"
 hash = "dbdf418ae63f929600784db71310ed80c7e7c30a60d1f3467dccb2a9d81caa52"
 
@@ -1050,6 +1055,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "7d5dba4cf4a48ae96d728377767c5cd1b3d743967255b987d272c6f884372463"
+metafile = true
+
+[[files]]
+file = "mods/way-much-faster-oxidize-reborn.pw.toml"
+hash = "c20fa7925630a38cdfd0d17b12220e5c93cc16bad1efbef41e148f70b1006548"
 metafile = true
 
 [[files]]
