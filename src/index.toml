@@ -503,7 +503,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-ae.pw.toml"
-hash = "b7277d2db3a4bc1006861370e6a6b63111571d8913ea0f0585872b525a46ab77"
+hash = "5cde94db7399e4b0c59721ae219548544e9320a71548afee09639e555e8439c8"
 metafile = true
 
 [[files]]
