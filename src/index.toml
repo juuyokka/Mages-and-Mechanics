@@ -467,6 +467,11 @@ hash = "816901f3a7a3c2975a54aaed2b8a5b31f8f849b701408508cb77572e3f006d59"
 metafile = true
 
 [[files]]
+file = "mods/enderio.pw.toml"
+hash = "68c20519f4f6d116f05ded91c4ffbb9b3d8bad0ffbc3d63a1587f09229c71030"
+metafile = true
+
+[[files]]
 file = "mods/ends-phantasm.pw.toml"
 hash = "a7d1481cc2a5b5d3926ef9bed6a7a2bf87b78fd8174f4f1c912950fb70b9ebf2"
 metafile = true
