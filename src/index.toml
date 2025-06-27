@@ -333,6 +333,11 @@ hash = "2d9b8031284998c278bc0fed025c0b07773189eccc841747fe28be82514984eb"
 metafile = true
 
 [[files]]
+file = "mods/create-cafe.pw.toml"
+hash = "cac89d1548752bb0754055e95b079a2258dcaa08cb31f2814a0394f842cd4f69"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "5b9c383ce87acc21602ab5cc5bb35a440487b0608fce9d8489ff641bf0413513"
 metafile = true
@@ -394,6 +399,11 @@ hash = "dbdf418ae63f929600784db71310ed80c7e7c30a60d1f3467dccb2a9d81caa52"
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "13b1a2b6bb389a37c08cee933ee5357c9c6330f85be92dcd53fd01a3d8b45bf9"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "d8fde87d322c7d8e841658090d41c33120c72b4e6724af94a9fd3cc41603234c"
 metafile = true
 
 [[files]]
@@ -482,6 +492,11 @@ hash = "c593551ad29c010a4985f4310c32707bfb8859ebe939d5e17c4cd919862f5555"
 metafile = true
 
 [[files]]
+file = "mods/epherolib.pw.toml"
+hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
+metafile = true
+
+[[files]]
 file = "mods/even-better-nether.pw.toml"
 hash = "e163044f3d3d08bcc86dc85a033099ceb7034a268e1585ac2094c80eb488a445"
 metafile = true
@@ -499,6 +514,11 @@ metafile = true
 [[files]]
 file = "mods/extended-ae.pw.toml"
 hash = "5cde94db7399e4b0c59721ae219548544e9320a71548afee09639e555e8439c8"
+metafile = true
+
+[[files]]
+file = "mods/farmers-croptopia.pw.toml"
+hash = "bd8cbbef712f8c20f655656da3448305327acc7ade8ad7e70cc0c4c2a5aca9d2"
 metafile = true
 
 [[files]]
