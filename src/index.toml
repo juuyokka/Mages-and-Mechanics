@@ -937,6 +937,11 @@ hash = "e46fef51b6d5e218f7e111a3c45711fde114a49fa38e99dc86b505a3d2ab630a"
 metafile = true
 
 [[files]]
+file = "mods/scholar.pw.toml"
+hash = "ee402b020df43ac4265f5fcdb375798f31ea31862bd25445b5e78dc101de1000"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
