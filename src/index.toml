@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "9d6f4f7b7df3a81b0938534a8714e85c76ae29f4a762f0392fd79efb3611a619"
+hash = "4852a9af0dd34136c85a20a9729b554bbb8afbf81f8bfdbb52b8a8cae898b1e6"
 metafile = true
 
 [[files]]
