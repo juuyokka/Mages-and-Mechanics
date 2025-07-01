@@ -9,6 +9,10 @@ file = "config/createaddition-common.toml"
 hash = "fd27810f6f7873240e1d8031854316e5fb07cfe73d9e2d7ffd77397552feb168"
 
 [[files]]
+file = "config/createappliedkinetics-common.toml"
+hash = "8b7701a7a6af4d119f079156e4fc0dd8ca855758c954408d3275797409431991"
+
+[[files]]
 file = "config/treeharvester.json5"
 hash = "4a71e9707d8bbdc776a3b6c3cadcf703fbfa3a256cb202abece0360f555536ba"
 
@@ -330,6 +334,11 @@ metafile = true
 [[files]]
 file = "mods/crawl-on-demand.pw.toml"
 hash = "2d9b8031284998c278bc0fed025c0b07773189eccc841747fe28be82514984eb"
+metafile = true
+
+[[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "2abfac150d6c52601ed1d666381e9992f1be1eb88ba2c2cd0d11c6a863215986"
 metafile = true
 
 [[files]]
